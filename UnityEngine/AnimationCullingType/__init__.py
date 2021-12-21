@@ -1,0 +1,11 @@
+from UdonPie import UnityEngine
+from UdonPie.Undefined import *
+
+
+class AnimationCullingType:
+    def __new__(cls, arg1=None):
+        '''
+        :returns: AnimationCullingType
+        :rtype: UnityEngine.AnimationCullingType
+        '''
+        pass
