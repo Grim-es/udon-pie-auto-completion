@@ -1,4 +1,4 @@
-material-combiner-addon
+udon-pie-auto-completion
 ===========
 #### Auto-completion for external Unity and Udon classes and methods within the visibility scope originally designed for UdonPie compiler.
 
